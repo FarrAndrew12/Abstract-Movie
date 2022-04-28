@@ -1,0 +1,15 @@
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\bin\Debug\net6.0\MovieAbstractLab.exe
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\bin\Debug\net6.0\MovieAbstractLab.deps.json
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\bin\Debug\net6.0\MovieAbstractLab.runtimeconfig.json
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\bin\Debug\net6.0\MovieAbstractLab.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\bin\Debug\net6.0\MovieAbstractLab.pdb
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.csproj.AssemblyReference.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.AssemblyInfoInputs.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.AssemblyInfo.cs
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.csproj.CoreCompileInputs.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\refint\MovieAbstractLab.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.pdb
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\MovieAbstractLab.genruntimeconfig.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\MovieAbstractLab\MovieAbstractLab\obj\Debug\net6.0\ref\MovieAbstractLab.dll
